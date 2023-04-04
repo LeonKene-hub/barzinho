@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\Atividade switch bebidas\bin\Debug\net7.0\Atividade switch bebidas.exe
+C:\Users\56026708820\Desktop\Atividade switch bebidas\bin\Debug\net7.0\Atividade switch bebidas.deps.json
+C:\Users\56026708820\Desktop\Atividade switch bebidas\bin\Debug\net7.0\Atividade switch bebidas.runtimeconfig.json
+C:\Users\56026708820\Desktop\Atividade switch bebidas\bin\Debug\net7.0\Atividade switch bebidas.dll
+C:\Users\56026708820\Desktop\Atividade switch bebidas\bin\Debug\net7.0\Atividade switch bebidas.pdb
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\Atividade switch bebidas.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\Atividade switch bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\Atividade switch bebidas.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\Atividade switch bebidas.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\Atividade switch bebidas.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\Atividade switch bebidas.dll
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\refint\Atividade switch bebidas.dll
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\Atividade switch bebidas.pdb
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\Atividade switch bebidas.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\Atividade switch bebidas\obj\Debug\net7.0\ref\Atividade switch bebidas.dll
